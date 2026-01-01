@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "data/gifts.json"
+      - "data/gifts-collections.json"
 
 permissions:
   contents: write  
