@@ -6,6 +6,9 @@ on:
     paths:
       - "data/gifts.json"
 
+permissions:
+  contents: write  
+
 jobs:
   download:
     runs-on: ubuntu-latest
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -31,4 +36,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images json
           git commit -m "Update gifts assets" || echo "No changes to commit"
-          git push
+          git push origin main
