@@ -2,8 +2,8 @@ const fs = require("fs-extra");
 const axios = require("axios");
 
 const dataPath = "data/gifts.json";
-const imagesDir = "images/stars";
-const jsonDir = "json/stars";
+const imagesDir = "images";
+const jsonDir = "json";
 
 (async () => {
   try {
