@@ -1,7 +1,7 @@
 const fs = require("fs-extra");
 const axios = require("axios");
 
-const dataPath = "data/gifts.json";
+const dataPath = "data/gifts-collections.json";
 const imagesDir = "images";
 const jsonDir = "json";
 
