@@ -1,0 +1,50 @@
+{
+  "average_price": 10000,
+  "loss_rate": 0.65,
+  "items": [
+    {
+      "id": "6014697240977737490",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/6014697240977737490.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/6014697240977737490.json",
+      "stars_price": 10000,
+      "sticker_id": "5438548621127615575"
+    },
+    {
+      "id": "5895518353849582541",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5895518353849582541.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5895518353849582541.json",
+      "stars_price": 10000,
+      "sticker_id": "5319126771994490119"
+    },
+    {
+      "id": "6001425315291727333",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/6001425315291727333.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/6001425315291727333.json",
+      "stars_price": 10000,
+      "sticker_id": "5425114972743046691"
+    },
+    {
+      "id": "5868455043362980631",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5868455043362980631.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5868455043362980631.json",
+      "stars_price": 10000,
+      "sticker_id": "5294430336380330453"
+    },
+    {
+      "id": "5168043875654172773",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5168043875654172773.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5168043875654172773.json",
+      "stars": 100,
+      "emoji_id": "5409008750893734809",
+      "is_win": true
+    },
+    {
+      "id": "5170690322832818290",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170690322832818290.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170690322832818290.json",
+      "stars": 100,
+      "emoji_id": "5402100905883488232",
+      "is_win": true
+    }
+  ]
+}
