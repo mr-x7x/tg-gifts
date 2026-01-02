@@ -1,0 +1,151 @@
+{
+  "box_id": "box_7",
+  "box_price": 1150,
+  "gifts": [
+    {
+      "id": "5818708013426410448",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5818708013426410448.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5818708013426410448.json",
+      "stars_price": 500,
+      "sticker_id": "5244681343643713903"
+    },
+    {
+      "id": "5886756255493523118",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5886756255493523118.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5886756255493523118.json",
+      "stars_price": 500,
+      "sticker_id": "5307949733786976205"
+    },
+    {
+      "id": "5170521118301225164",
+      "is_win": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170521118301225164.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170521118301225164.json",
+      "stars_price": 100,
+      "sticker_id": "5471952986970267163"
+    },
+    {
+      "id": "5832644211639321671",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5832644211639321671.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5832644211639321671.json",
+      "stars_price": 300,
+      "sticker_id": "5255734132742324362"
+    },
+    {
+      "id": "5956217000635139069",
+      "is_win": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5956217000635139069.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5956217000635139069.json",
+      "stars_price": 50,
+      "sticker_id": "5379850840691476775"
+    },
+    {
+      "id": "5870784783948186838",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5870784783948186838.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5870784783948186838.json",
+      "stars_price": 200,
+      "sticker_id": "5291877442179329766"
+    },
+    {
+      "id": "gifts-stars-balance",
+      "is_win": true,
+      "is_stars_balance": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/gifts-stars.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/gifts-stars.json",
+      "stars_price": 43
+    },
+    {
+      "id": "5886387158889005864",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5886387158889005864.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5886387158889005864.json",
+      "stars_price": 1000,
+      "sticker_id": "5310162878894999252"
+    },
+    {
+      "id": "6014675319464657779",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/6014675319464657779.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/6014675319464657779.json",
+      "stars_price": 5000,
+      "sticker_id": "5438223054016638005"
+    },
+    {
+      "id": "5933671725160989227",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5933671725160989227.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5933671725160989227.json",
+      "stars_price": 1000,
+      "sticker_id": "5292092955048302153"
+    },
+    {
+      "id": "5870720080265871962",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5870720080265871962.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5870720080265871962.json",
+      "stars_price": 10000,
+      "sticker_id": "5463206848712697897"
+    },
+    {
+      "id": "5830340739074097859",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5830340739074097859.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5830340739074097859.json",
+      "stars_price": 300,
+      "sticker_id": "5253505577291641700"
+    },
+    {
+      "id": "5170145012310081615",
+      "is_win": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170145012310081615.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170145012310081615.json",
+      "stars_price": 15,
+      "sticker_id": "5465263910414195580"
+    },
+    {
+      "id": "5775966332847654507",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5775966332847654507.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5775966332847654507.json",
+      "stars_price": 500,
+      "sticker_id": "5201966171603106893"
+    },
+    {
+      "id": "5834918435477259676",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5834918435477259676.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5834918435477259676.json",
+      "stars_price": 500,
+      "sticker_id": "5256140105936044145"
+    },
+    {
+      "id": "6028601630662853006",
+      "is_win": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/6028601630662853006.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/6028601630662853006.json",
+      "stars_price": 50,
+      "sticker_id": "5370900768796711127"
+    },
+    {
+      "id": "5999298447486747746",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5999298447486747746.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5999298447486747746.json",
+      "stars_price": 250,
+      "sticker_id": "5422557869474088584"
+    },
+    {
+      "id": "6012435906336654262",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/6012435906336654262.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/6012435906336654262.json",
+      "stars_price": 1000,
+      "sticker_id": "5436120792079302539"
+    },
+    {
+      "id": "5915521180483191380",
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5915521180483191380.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5915521180483191380.json",
+      "stars_price": 1000,
+      "sticker_id": "5330191715850541636"
+    },
+    {
+      "id": "lose",
+      "is_win": false,
+      "is_lose": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/lose.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/lose.json"
+    }
+  ]
+}
