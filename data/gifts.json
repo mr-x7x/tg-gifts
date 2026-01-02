@@ -1,5 +1,12 @@
 [
    {
+    "id": "lose",
+    "is_win": false,  
+    "is_lose": true,   
+    "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/lose.png",
+    "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/lose.json"
+   },
+   {
     "id": "gifts-stars-balance",
     "is_win": true,  
     "is_stars_balance": true,   
