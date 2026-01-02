@@ -1,5 +1,13 @@
 [
    {
+    "id": "gifts-stars-balance",
+    "is_win": true,  
+    "is_stars_balance": true,   
+    "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/gifts-stars.png",
+    "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/gifts-stars.json",
+    "stars_price": 5
+   },
+   {
     "id": "5956217000635139069",
     "is_win": true,  
     "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5956217000635139069.png",
