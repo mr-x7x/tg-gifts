@@ -1,6 +1,6 @@
 {
   "box_id": "box_6",
-  "box_price": 550,
+  "box_price": 700,
   "gifts": [
     {
       "id": "5956308547863052791",
@@ -37,7 +37,7 @@
       "is_stars_balance": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/gifts-stars.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/gifts-stars.json",
-      "stars_price": 21
+      "stars_price": 50
     },
     {
       "id": "5895518353849582541",
