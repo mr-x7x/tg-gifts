@@ -32,13 +32,6 @@
       "sticker_id": "5357444460164707026"
     },
     {
-      "id": "lose",
-      "is_win": false,
-      "is_lose": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/lose.png",
-      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/lose.json"
-    },
-    {
       "id": "5933671725160989227",
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5933671725160989227.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5933671725160989227.json",
@@ -80,7 +73,7 @@
       "is_stars_balance": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/gifts-stars.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/gifts-stars.json",
-      "stars_price": 200
+      "stars_price": 100
     },
     {
       "id": "5170521118301225164",
