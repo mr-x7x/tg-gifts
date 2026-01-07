@@ -74,11 +74,18 @@
     },
     {
       "id": "5170690322832818290",
-      "is_win": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170690322832818290.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170690322832818290.json",
       "stars_price": 100,
       "sticker_id": "5402100905883488232"
+    },
+    {
+      "id": "5170145012310081615",
+      "is_win": true,
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170145012310081615.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170145012310081615.json",
+      "stars_price": 15,
+      "sticker_id": "5465263910414195580"
     },
     {
       "id": "6005880141270483700",
