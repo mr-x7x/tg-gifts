@@ -3,6 +3,14 @@
   "box_price": 50,
   "gifts": [
     {
+      "id": "5956217000635139069",
+      "is_win": true,  
+      "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5956217000635139069.png",
+      "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5956217000635139069.json",
+      "stars_price": 50,
+      "sticker_id": "5379850840691476775" 
+    },
+    {
       "id": "6014591077976114307",
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/6014591077976114307.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/6014591077976114307.json",
