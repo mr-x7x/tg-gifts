@@ -4,6 +4,7 @@
   "gifts": [
     {
       "id": "5956308547863052791",
+      "win_rate": 20,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5956308547863052791.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5956308547863052791.json",
       "stars_price": 500,
@@ -11,6 +12,7 @@
     },
     {
       "id": "5897593557492957738",
+      "win_rate": 18,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5897593557492957738.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5897593557492957738.json",
       "stars_price": 1000,
@@ -18,6 +20,7 @@
     },
     {
       "id": "5913517067138499193",
+      "win_rate": 22,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5913517067138499193.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5913517067138499193.json",
       "stars_price": 500,
@@ -25,6 +28,7 @@
     },
     {
       "id": "5170690322832818290",
+      "win_rate": 15,    
       "is_win": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170690322832818290.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170690322832818290.json",
@@ -33,6 +37,7 @@
     },
     {
       "id": "gifts-stars-balance",
+      "win_rate": 12,    
       "is_win": true,
       "is_stars_balance": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/gifts-stars.png",
@@ -41,6 +46,7 @@
     },
     {
       "id": "5895518353849582541",
+      "win_rate": 2,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5895518353849582541.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5895518353849582541.json",
       "stars_price": 10000,
@@ -48,6 +54,7 @@
     },
     {
       "id": "5879737836550226478",
+      "win_rate": 19,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5879737836550226478.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5879737836550226478.json",
       "stars_price": 500,
@@ -55,6 +62,7 @@
     },
     {
       "id": "5868348541058942091",
+      "win_rate": 16,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5868348541058942091.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5868348541058942091.json",
       "stars_price": 1000,
@@ -62,6 +70,7 @@
     },
     {
       "id": "5783075783622787539",
+      "win_rate": 22,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5783075783622787539.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5783075783622787539.json",
       "stars_price": 500,
@@ -69,6 +78,7 @@
     },
     {
       "id": "5170314324215857265",
+      "win_rate": 28,    
       "is_win": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5170314324215857265.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5170314324215857265.json",
@@ -77,6 +87,7 @@
     },
     {
       "id": "5868503709637411929",
+      "win_rate": 17,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5868503709637411929.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5868503709637411929.json",
       "stars_price": 1000,
@@ -84,6 +95,7 @@
     },
     {
       "id": "5859442703032386168",
+      "win_rate": 10,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5859442703032386168.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5859442703032386168.json",
       "stars_price": 500,
@@ -91,6 +103,7 @@
     },
     {
       "id": "5870972044522291836",
+      "win_rate": 30,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5870972044522291836.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5870972044522291836.json",
       "stars_price": 200,
@@ -98,6 +111,7 @@
     },
     {
       "id": "5782984811920491178",
+      "win_rate": 20,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5782984811920491178.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5782984811920491178.json",
       "stars_price": 350,
@@ -105,6 +119,7 @@
     },
     {
       "id": "lose",
+      "win_rate": 5,    
       "is_win": false,
       "is_lose": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/lose.png",
@@ -112,6 +127,7 @@
     },
     {
       "id": "5839094187366024301",
+      "win_rate": 10,    
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/5839094187366024301.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/5839094187366024301.json",
       "stars_price": 2900,
@@ -119,6 +135,7 @@
     },
     {
       "id": "5956217000635139069",
+      "win_rate": 4,    
       "is_win": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5956217000635139069.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5956217000635139069.json",
@@ -127,6 +144,7 @@
     },
     {
       "id": "5922558454332916696",
+      "win_rate": 18,    
       "is_win": true,
       "image_url": "https://cdn.jsdelivr.net/gh/mr-x7x/tg-gifts/images/stars/5922558454332916696.png",
       "animation_url": "https://raw.githubusercontent.com/mr-x7x/tg-gifts/refs/heads/main/json/stars/5922558454332916696.json",
