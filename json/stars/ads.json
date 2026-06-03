@@ -1,0 +1,125 @@
+{
+  "banner_ads": [
+    {
+      "id": 1001,
+      "name": "Netflix",
+      "description": "Watch unlimited movies and TV shows. Stream anywhere, anytime.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+      "banner_image": "https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://netflix.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 1
+    },
+    {
+      "id": 1002,
+      "name": "Disney+",
+      "description": "Stream Disney, Pixar, Marvel, Star Wars, and National Geographic.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+      "banner_image": "https://lumiere-a.akamaihd.net/v1/images/disney_plus_banner_desktop_1x_1_2d742c5d.png",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://disneyplus.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 2
+    },
+    {
+      "id": 1003,
+      "name": "Amazon Prime Video",
+      "description": "Watch movies, TV shows, and Amazon Originals.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
+      "banner_image": "https://m.media-amazon.com/images/G/01/digital/video/avod/redesign/prime_video_banner.jpg",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://primevideo.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 3
+    }
+  ],
+  "video_banner_ads": [
+    {
+      "id": 2001,
+      "name": "TikTok",
+      "description": "Short videos that entertain and inspire. Join the community!",
+      "app_logo": "https://static.cdnlogo.com/logos/t/94/tiktok-icon.svg",
+      "banner_image": "",
+      "banner_video": "https://assets.mixkit.co/videos/preview/mixkit-people-watching-a-movie-on-a-couch-38983-large.mp4",
+      "is_video": true,
+      "target_url": "https://tiktok.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 1
+    },
+    {
+      "id": 2002,
+      "name": "Spotify",
+      "description": "Music for every moment. Listen to your favorite artists.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "banner_image": "",
+      "banner_video": "https://assets.mixkit.co/videos/preview/mixkit-girl-listening-to-music-on-headphones-37226-large.mp4",
+      "is_video": true,
+      "target_url": "https://spotify.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 2
+    },
+    {
+      "id": 2003,
+      "name": "YouTube Premium",
+      "description": "Watch videos without interruptions. Ad-free experience.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_ Premium_logo.svg",
+      "banner_image": "",
+      "banner_video": "https://assets.mixkit.co/videos/preview/mixkit-person-using-a-smartphone-while-watching-a-movie-39846-large.mp4",
+      "is_video": true,
+      "target_url": "https://youtube.com/premium",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 3
+    }
+  ],
+  "horizontal_ads": [
+    {
+      "id": 3001,
+      "name": "Samsung Galaxy S25",
+      "description": "The ultimate AI smartphone. Pre-order now!",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg",
+      "banner_image": "",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://samsung.com/galaxy",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 1
+    },
+    {
+      "id": 3002,
+      "name": "Nike Run Club",
+      "description": "Track your runs and stay motivated. Join the community.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "banner_image": "",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://nike.com/run",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 2
+    },
+    {
+      "id": 3003,
+      "name": "Duolingo",
+      "description": "Learn languages for free. Fun and effective lessons.",
+      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Duolingo_logo.svg",
+      "banner_image": "",
+      "banner_video": null,
+      "is_video": false,
+      "target_url": "https://duolingo.com",
+      "is_active": true,
+      "ends_at": "2025-12-31T23:59:59Z",
+      "display_order": 3
+    }
+  ]
+}
