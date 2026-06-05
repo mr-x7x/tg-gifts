@@ -1,0 +1,26 @@
+[
+  {
+    "name": "VidSrc",
+    "image": "https://image.tmdb.org/t/p/w780/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg",
+    "movieUrlTemplate": "https://vidsrc.to/embed/movie/{{tmdbId}}",
+    "tvUrlTemplate": "https://vidsrc.to/embed/tv/{{tmdbId}}/{{seasonNumber}}/{{episodeNumber}}"
+  },
+  {
+    "name": "2Embed",
+    "image": "https://image.tmdb.org/t/p/w780/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg",
+    "movieUrlTemplate": "https://www.2embed.cc/embed/{{tmdbId}}",
+    "tvUrlTemplate": "https://www.2embed.cc/embedtv/{{tmdbId}}&s={{seasonNumber}}&e={{episodeNumber}}"
+  },
+  {
+    "name": "VidCloud",
+    "image": "https://image.tmdb.org/t/p/w780/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg",
+    "movieUrlTemplate": "https://vidcloud.icu/embed/movie/{{tmdbId}}",
+    "tvUrlTemplate": "https://vidcloud.icu/embed/tv/{{tmdbId}}/{{seasonNumber}}/{{episodeNumber}}"
+  },
+  {
+    "name": "SuperEmbed",
+    "image": "https://image.tmdb.org/t/p/w780/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg",
+    "movieUrlTemplate": "https://superembed.stream/movie/{{tmdbId}}",
+    "tvUrlTemplate": "https://superembed.stream/tv/{{tmdbId}}/{{seasonNumber}}/{{episodeNumber}}"
+  }
+]
