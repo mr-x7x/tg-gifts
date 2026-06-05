@@ -1,0 +1,21 @@
+{
+  "donors": [
+    {
+      "user_id": "6793556284",
+      "username": "john_doe",
+      "avatar_url": "https://example.com/avatar.jpg",
+      "total_donations_ton": 50.5,
+      "total_donations_stars": 1000,
+      "donation_count": 3
+    },
+    {
+      "user_id": "987654321",
+      "username": "jane_smith",
+      "avatar_url": null,
+      "total_donations_ton": 25.0,
+      "total_donations_stars": 500,
+      "donation_count": 2
+    }
+  ],
+  "last_updated": "2024-01-01T00:00:00Z"
+}
